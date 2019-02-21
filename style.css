@@ -1,0 +1,17 @@
+ul{display: inline;
+                margin-left: 60px;}
+            li{display: inline;
+            padding: 20px;}
+            #bng{margin: 150px 300px 200px 130px;
+                display: inline;}
+            p{display: inline;
+             height: 80px;}
+            img{width: 250px;
+                height: 80px;
+                padding-right: 50px}
+            input{width: 600px;
+                height: 80px;
+                padding-left: 50px}
+body{background-image: url(./Image/back.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;}
